@@ -30,9 +30,9 @@ Com essa informação mude no arquivo `database.yml` alterando a linha 18 com o 
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
-`DB_USERNAME=root`
+`DB_USERNAME=username`
 
-`DB_PASSWORD=cida0603`
+`DB_PASSWORD=password`
 
 Crie um esquema 
 
