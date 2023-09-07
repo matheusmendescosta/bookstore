@@ -17,7 +17,7 @@ author = Author.create([{
 
 book = Book.create([{
                      title: 'Trading Price Action Trading Ranges - Technical Analysis Of Price Charts Bar By Bar For The Serious Trader',
-                     year_published: '12/09/20011',
+                     year_published: 2011,
                      isbn: 'B0067PZ87C',
                      price: 212.40,
                      out_of_print: false,
